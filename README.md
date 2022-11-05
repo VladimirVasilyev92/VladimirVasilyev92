@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20425574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20425574" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vladds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vladds" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCwWmyiXPJih2Ml4J5Z71YWg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vladds" height="30" width="40" /></a>
 <a href="https://discord.gg/bqemX2C5aX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bqemX2C5aX" height="30" width="40" /></a>
 </p>
 
