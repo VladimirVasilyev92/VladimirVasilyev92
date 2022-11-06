@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Hi, I'm Efe. I was born in Turkey and live here. I am high school student. I started learning the first programming language in 8th grade. JavaScript and TypeScript are my favorite languages. I try to learn new things and improve myself. I making bot on Discord with using Discord.JS. Thank you for reading. ^^</h3>
 
-- 🔭 I’m currently working on [Luxen Store](https://discord.gg/ADk7wM2C)
+- 🔭 I’m currently working on [Relasim](https://discord.gg/MT6HpM222p)
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000/](http://localhost:3000/)
+- 👨‍💻 All of my projects are available at https://vladds.vercel.app/
 
 - 📫 How to reach me **vladss#0001 or website**
 
